@@ -26,7 +26,7 @@ _Descargamos la carpeta EFI preconfigurada_
 * [EFI.zip](https://drive.google.com/file/d/17fLf5GB_1-ldqjlsI_CBLIV1Y-O8nfFs/view?usp=sharing)
 * Montamos la Particion EFI del USB-BOOT y pegamos la carpeta EFI descargada
 
-_Ejecutamos el pendrive y en el arranque seleccionamos modGRUBShell.efi_
+_Ejecutamos el pendrive y en el arranque seleccionamos modGRUBShell.efi (Mucho cuidado con estos comandos)_
 ```
 CFG Lock
     (VarOffset/VarName): 0x3E
