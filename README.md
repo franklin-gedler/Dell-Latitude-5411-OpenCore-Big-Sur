@@ -49,7 +49,7 @@ DVMT Total Gfx Mem
     VarStore: 0x16
     Name: SaSetup
 
-    Comando para modGRUBShell.efi: setup_var_cv SaSetup 0xF5 0x16 0x3
+    Comando para modGRUBShell.efi: setup_var_cv SaSetup 0xF6 0x16 0x3
 ____________________________________________________________________
 
 VT-d
