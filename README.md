@@ -1,4 +1,4 @@
-# Dell-Latitude-5411-hackintosh-OpenCore
+# Dell-Latitude-5411-OpenCore-Big-Sur
 
 _Herramientas:_
 
