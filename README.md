@@ -23,7 +23,7 @@ sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstall
 
 _Descargamos la carpeta EFI preconfigurada_
 
-* [EFI.zip](https://drive.google.com/file/d/17fLf5GB_1-ldqjlsI_CBLIV1Y-O8nfFs/view?usp=sharing)
+* [EFI.zip](https://www.mediafire.com/file/gm0kqil402qzvsg/EFI.zip/file)
 * Montamos la Particion EFI del USB-BOOT y pegamos la carpeta EFI descargada
 
 _Ejecutamos el pendrive y en el arranque seleccionamos modGRUBShell.efi (Mucho cuidado con estos comandos)_
